@@ -6,7 +6,7 @@
 ; They helped me)
 ; http://www.script-coding.com/AutoHotkey/Click.html
 ; https://www.script-coding.com/AutoHotkey/KeyList.html
-; https://github.com/Stas-inside/Foxford_find_lessons/blobgithub.com/Stas-inside/main/RandomFox%20(part_3).ahk#L5
+; https://github.com/Stas-inside/Foxford_find_lessons/blobgithub.com/Stas-inside/main/RandomFox%20(part_3).ahk
 ; http://script-coding.com/AutoHotkey/MouseMove.html
 
 Sleep, 1000
@@ -21,7 +21,7 @@ Sleep, 10
 Click 880, 22, 1
 Sleep, 2000
 
-; Добавить команду {LWin up} для окна
+; Г„Г®ГЎГ ГўГЁГІГј ГЄГ®Г¬Г Г­Г¤Гі {LWin up} Г¤Г«Гї Г®ГЄГ­Г 
 
 Click 1270, 15, 1
 Sleep, 100
@@ -39,7 +39,7 @@ Click 750, 370, 1
 Sleep, 3000
 Click 430, 480, 1
 Sleep, 3000
-; Измениние
+; Г€Г§Г¬ГҐГ­ГЁГ­ГЁГҐ
 loop 20
 {
 	Click 1520, 480, 1
