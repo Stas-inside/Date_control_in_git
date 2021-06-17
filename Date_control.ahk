@@ -37,10 +37,10 @@ SendInput, Date_control_in_git
 Sleep, 800
 Click 750, 370, 1
 Sleep, 3000
-Click 430, 440, 1
+Click 430, 480, 1
 Sleep, 3000
 ; Измениние
-loop 1
+loop 20
 {
 	Click 1520, 480, 1
 	Sleep, 1000
