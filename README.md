@@ -1,8 +1,8 @@
 # Date control in git
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту](https://github.com/Stas-inside/Date_control_in_git/blob/main/Additions/Capture.PNG)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/{Stas-inside}/{Date_control_in_git}/raw/{main}/{https://github.com/Stas-inside/Date_control_in_git/blob/main/Additions/Capture.PNG}/image.png)
 
 {username} — ваш ник на ГитХабе;
 {repository} — репозиторий где хранятся картинки;
