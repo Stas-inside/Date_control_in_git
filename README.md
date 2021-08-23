@@ -4,3 +4,4 @@
 
 I had to navigate by coordinates from [**Find x y**](https://github.com/Stas-inside/Find_x_y) or use the built-in AHK **Window Spy**
 0761
+4057
