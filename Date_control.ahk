@@ -21,7 +21,7 @@ Sleep, 10
 Click 880, 22, 1
 Sleep, 2000
 
-; Добавить команду {LWin up} для окна
+; Aiaaaeou eiiaiao {LWin up} aey ieia
 
 Click 1270, 15, 1
 Sleep, 100
@@ -30,21 +30,21 @@ SendInput, github.com/Stas-inside
 Send {Enter}
 
 Sleep, 3000
-Click 850, 190, 1
+Click 850, 220, 1
 Sleep, 3000
-Click 800, 245, 1
+Click 680, 270, 1
 SendInput, Date_control_in_git
 Sleep, 800
-Click 750, 370, 1
+Click 680, 400, 1
 Sleep, 3000
-Click 420, 550, 1
+Click 410, 545, 1
 Sleep, 3000
-; Измениние
+; Eciaieiea
 loop 24
 {
-	Click 1520, 480, 1
+	Click 1520, 500, 1
 	Sleep, 1000
-	Click 415, 400, 1
+	Click 450, 450, 1
 	Sleep, 1000
 
 	; Ctrl+A (Select)
@@ -64,18 +64,16 @@ loop 24
 	Send {Enter}
 	Sleep, 10
 
-	Click 160, 520, 1
+	Click 160, 360, 1
 	Sleep, 10
 	Send {Space Down}
 	Sleep 2000
 	Send {Space Up}
-	Click 500, 880, 1
+	Click 500, 860, 1
 	Sleep 2500
 }
 
-Click 1520, 480, 1
-Sleep, 1000
-Click 415, 400, 1
+Click 100, 200, 1
 Sleep, 1000
 
 ; Ctrl+A (Select)
@@ -87,6 +85,7 @@ SendInput, *** end
 Sleep, 10
 Send {Enter}
 Sleep, 10
+
 Click 160, 520, 1
 Sleep, 10
 Send {Space Down}
@@ -98,13 +97,9 @@ Sleep 2400
 Click 100, 170, 1
 Sleep, 3000
 Send {Space}
-Sleep 1000
+Sleep 100
 Send {Space}
-Sleep 1000
-Send {Space}
-Sleep 1000
-Send {Space}
-Sleep 1000
+Sleep 100
 Click 1860, 20, 1
 Sleep 10
 
